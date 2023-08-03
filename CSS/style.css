@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: right;
+}
+.h1 {align-items: center;}
+
+<style type="text/css">
+	.container {width: 600px; margin: auto; background: lightgrey; padding: 10px}
+	#gambar {width: 300px; margin:auto;}
+</style>
+<style type="text/css">
+	.container {width: 600px; margin: auto; background: lightgrey; padding: 10px}
+	#gambar {width: 300px; margin:auto;}
+</style>
